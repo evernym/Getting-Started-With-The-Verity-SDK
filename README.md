@@ -1,3 +1,5 @@
+**This repository represents an early version of the Verity SDK, and is no longer relevant. Please use [the verity-sdk repository](https://github.com/evernym/verity-sdk).**
+
 # Getting Started with the Verity SDK
 
 ## What is the Verity SDK?
